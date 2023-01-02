@@ -6,7 +6,7 @@
 
 <h2>Related Recipes</h2>
 <ul>
-		<li><a href='a'>hewiest Brownies</a></li>
+		<li><a href='a'>Chewiest Brownies</a></li>
 
 		<li><a href='a'>Can't Tell They're Low-fat Brownies</a></li>
 		
